@@ -41,3 +41,9 @@ What it is: Handshake operates on a weekly accounting cycle that runs from Monda
 What comes next:
 The current week officially closes at midnight on Sunday, August 2.
 Once closed, your $50.00 transitions from "Awaiting payout" into the processed payment pipeline.
+
+9. Payment Processing & Bank Transfer
+What it is: Handshake AI processes payout batches once per week.
+What comes next:
+As stated on the platform, payments process on Wednesday, August 5 for the prior week's work.
+Handshake initiates a cross-border wire/ACH transfer directly into your linked ICICI Bank account, which usually reflects within 1 to 3 business days following processing.
